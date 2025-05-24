@@ -49,7 +49,7 @@ class Player {
         this.player.style.width = this.width + "px";
         this.player.style.height = this.height + "px";
         this.player.style.backgroundImage =
-        "url('/assets/img/character-myself.png')";
+        "url('./assets/img/character-myself.png')";
         
         this.player.style.backgroundPositionX = "0px";
         this.player.style.backgroundPositionY = "0px";
