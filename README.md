@@ -54,4 +54,4 @@ Không có level, không có điểm, không có boss. Chỉ có bạn, một h�
 
 ## 🧡 Cảm ơn
 
-Cảm ơn chính mình – **Dương Thái Bảo** – vì đã không làm gì nghiêm túc cả, nhưng vẫn commit.
+Cảm ơn chính mình – **Dương Thái Bảo** – vì đã không làm gì nghiêm túc cả, nhưng vẫn commit =)))
